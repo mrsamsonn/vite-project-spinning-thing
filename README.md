@@ -1,6 +1,6 @@
 ## Usage
 
 ```
-npm install
+npm install three
 npm run dev
 ```
